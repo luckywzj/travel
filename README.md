@@ -1,4 +1,5 @@
 # travel
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -20,3 +21,6 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # travel
+=======
+travel
+>>>>>>> 647b3fe80006c8c9816ed920611a0951ebb8f7ce
