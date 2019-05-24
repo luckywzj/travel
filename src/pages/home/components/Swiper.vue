@@ -12,9 +12,8 @@
         class="swiper-pagination"
         slot="pagination"
       ></div>
-
     </swiper>
-    test
+
   </div>
 </template>
 <script>
@@ -42,14 +41,15 @@ export default {
 };
 </script>
 <style lang="stylus" scoped>
-.wrapper>>> .swiper-pagination-bullet-active
-  background :#fff
-.wrapper
-  overflow: hidden
-  width :100%
-  heigth :0
-  padding-bottom  :31.25%
+.wrapper >>> .swiper-pagination-bullet-active
+    background-color #fff !important
+  .wrapper
+    overflow hidden
+    background-color #ddd
+    height 0
+    width 100%
+    padding-bottom 26.7%
   .swiper-img
-    width: 100%;
+    width 100%
 
 </style>
